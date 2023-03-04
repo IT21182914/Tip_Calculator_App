@@ -3,7 +3,7 @@ Build a basic tip calculator mobile application using Kotlin Programming Languag
 
 
 
-![Calculator App (5)](https://user-images.githubusercontent.com/99383107/222916966-8b4fa20f-bcbb-4d79-aa18-818a378eb180.png)
+<center>![Calculator App (5)](https://user-images.githubusercontent.com/99383107/222916966-8b4fa20f-bcbb-4d79-aa18-818a378eb180.png) </center>
 
 
 ![Screenshot (1042)](https://user-images.githubusercontent.com/99383107/222916979-b1986ef5-b1ec-4359-971e-449ec798443a.png)
